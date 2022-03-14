@@ -26,3 +26,8 @@
   winner: Diana DeGette
   winning vote count: 272,892
   winning percetage: 73.8%
+  
+#this script can be used for other elections for retrieving percetage of the votes of each candidates as well as targeting areas and demographic with smaller turnout to increase the votes 
+
+#This can also be motified by providing different political background (different parties), as well as age and gender for specific demographic targetting.
+
